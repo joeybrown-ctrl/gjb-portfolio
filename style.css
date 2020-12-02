@@ -1,16 +1,5 @@
-/* .bgImg {
-    background-image: url("images/danny-strutt-w0XQM9X6uQc-unsplash.jpg");
-    /* linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.9)),  */
-    /* background-attachment: static;
-    background-position: center;
-    background-repeat: no-repeat; */
-    /* background-size: cover; */
-/* } */ 
-
-
-
 .heroImage {
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.9)), 
+    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.7)), 
     url("images/danny-strutt-w0XQM9X6uQc-unsplash.jpg");
     min-height: 1000px;
     min-width: 100%;
@@ -28,8 +17,8 @@
 .container {
     background: linear-gradient(rgba(0, 0, 0, 0.5),  rgba(0,0,0,0.9));
     margin-top: 50px;
-    margin-bottom: 50px;
-    padding-bottom: 50px;
+    margin-bottom: 150px;
+    /* padding-bottom: 50px; */
 }
 
 .button {
@@ -40,8 +29,8 @@
 }
 
 .footer {
-    margin-top: 50px;
-    padding-top: 50px;
+    /* margin-top: 50px;
+    padding-top: 50px; */
 }
 
 
