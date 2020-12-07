@@ -19,7 +19,7 @@ Version 2.0.0
 <hr>
 
   ## Description 
-A portfolio website built with HTML 5, Bootstrap 4, Boostswatch, and CSS 3. This is a refactor from my old portfolio site, and I improved upon the style by implementing the use of a hero image for the background, centering the navbar, and adjusting various elements using a CSS stylesheet. 
+A portfolio website built with HTML 5, Bootstrap 4, Boostswatch, and CSS 3. This is a refactor from my old portfolio site (which can be viewed [here](https://joeybrown-ctrl.github.io/)), and I improved upon the style by implementing the use of a hero image for the background, centering the navbar, and adjusting various elements using a CSS stylesheet. 
 
 ![Landing page](https://raw.githubusercontent.com/joeybrown-ctrl/gjb-portfolio/main/images/indexPage.png)
 
