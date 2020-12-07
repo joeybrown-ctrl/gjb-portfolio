@@ -19,6 +19,10 @@ Version 2.0.0
   ## Description 
 A portfolio website built with HTML 5, Bootstrap 4, Boostswatch, and CSS 3. 
 
+![Landing page](https://raw.githubusercontent.com/joeybrown-ctrl/gjb-portfolio/main/images/indexPage.png)
+
+
+
 
   ## Questions 
   
